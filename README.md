@@ -2,8 +2,11 @@
 A sample nodejs App for an mnc
 
 npm install
+
 nodemon index.js 
-or 
+
+or
+
 node index.js
 
 
