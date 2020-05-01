@@ -12,3 +12,5 @@ node index.js
 
 make sure mongod server is running @ 27017 port
 It will create a collection "testdb" 
+
+Frontend repo: https://github.com/Amitawinash/deployment-reactJs
