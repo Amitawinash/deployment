@@ -9,10 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@material-ui/lab": "^4.0.0-alpha.50",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "material-ui": "^0.20.2",
     "mongoose": "^5.9.2"
   }
 }
