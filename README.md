@@ -13,4 +13,4 @@ node index.js
 make sure mongod server is running @ 27017 port
 It should contain db named "testdb" 
 
-Frontend repo: https://github.com/Amitawinash/deployment-reactJs
+Frontend repo: https://github.com/Amitawinash/cmsitservices_dashboard
